@@ -1,0 +1,5 @@
+digraph finiteAutomaton {
+node [shape=circle];
+node [shape=none, label=""];
+i0 -> 0;
+}

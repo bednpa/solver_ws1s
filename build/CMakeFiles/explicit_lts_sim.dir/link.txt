@@ -1,0 +1,2 @@
+/Users/pavelbednar/miniconda3/bin/x86_64-apple-darwin13.4.0-ar qc libexplicit_lts_sim.a CMakeFiles/explicit_lts_sim.dir/src/mata/explicit_lts_sim.cc.o
+/Users/pavelbednar/miniconda3/bin/llvm-ranlib libexplicit_lts_sim.a

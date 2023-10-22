@@ -1,0 +1,2 @@
+/Users/pavelbednar/miniconda3/bin/x86_64-apple-darwin13.4.0-ar qc liboffsets.a CMakeFiles/offsets.dir/src/ast/offsets.cpp.o
+/Users/pavelbednar/miniconda3/bin/llvm-ranlib liboffsets.a

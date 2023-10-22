@@ -1,0 +1,2 @@
+/Users/pavelbednar/miniconda3/bin/x86_64-apple-darwin13.4.0-ar qc libparser_mata.a CMakeFiles/parser_mata.dir/src/mata/parser.cc.o
+/Users/pavelbednar/miniconda3/bin/llvm-ranlib libparser_mata.a

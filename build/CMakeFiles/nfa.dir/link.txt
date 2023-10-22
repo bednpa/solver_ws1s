@@ -1,0 +1,2 @@
+/Users/pavelbednar/miniconda3/bin/x86_64-apple-darwin13.4.0-ar qc libnfa.a CMakeFiles/nfa.dir/src/mata/nfa.cc.o
+/Users/pavelbednar/miniconda3/bin/llvm-ranlib libnfa.a

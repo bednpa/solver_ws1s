@@ -1,0 +1,2 @@
+/Users/pavelbednar/miniconda3/bin/x86_64-apple-darwin13.4.0-ar qc libauxiliary.a CMakeFiles/auxiliary.dir/src/core/auxiliary.cpp.o
+/Users/pavelbednar/miniconda3/bin/llvm-ranlib libauxiliary.a

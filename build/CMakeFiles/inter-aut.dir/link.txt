@@ -1,0 +1,2 @@
+/Users/pavelbednar/miniconda3/bin/x86_64-apple-darwin13.4.0-ar qc libinter-aut.a "CMakeFiles/inter-aut.dir/src/mata/inter-aut.cc.o"
+/Users/pavelbednar/miniconda3/bin/llvm-ranlib libinter-aut.a

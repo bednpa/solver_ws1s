@@ -1,0 +1,2 @@
+/Users/pavelbednar/miniconda3/bin/x86_64-apple-darwin13.4.0-ar qc libatomaut.a CMakeFiles/atomaut.dir/src/core/atomaut.cpp.o
+/Users/pavelbednar/miniconda3/bin/llvm-ranlib libatomaut.a

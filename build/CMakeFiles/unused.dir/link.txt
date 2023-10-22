@@ -1,0 +1,2 @@
+/Users/pavelbednar/miniconda3/bin/x86_64-apple-darwin13.4.0-ar qc libunused.a CMakeFiles/unused.dir/src/core/unused.cpp.o
+/Users/pavelbednar/miniconda3/bin/llvm-ranlib libunused.a

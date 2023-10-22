@@ -1,0 +1,2 @@
+/Users/pavelbednar/miniconda3/bin/x86_64-apple-darwin13.4.0-ar qc libgencode.a CMakeFiles/gencode.dir/src/core/gencode.cpp.o
+/Users/pavelbednar/miniconda3/bin/llvm-ranlib libgencode.a
